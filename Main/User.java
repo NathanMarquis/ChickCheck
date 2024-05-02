@@ -7,7 +7,7 @@ public class User {
     public User( String name, String password)  {
         this.userName = name;
         this.password = password;
-        this.myCoop = new Coop(name);
+        this.myCoop = new Coop(name + "'s coop");
         // create database selection for user
     }
 

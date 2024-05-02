@@ -5,4 +5,9 @@
  * @author Nathan Marquis
  */
 
- 
+ public class ChickCheck {
+    public static void main (String [] args) {
+        // Create a user
+        // 
+    }
+}
